@@ -20,4 +20,3 @@ A fun and engaging browser-based memory game built using **HTML**, **CSS**, and 
 - **CSS3** – Styling
 - **Vanilla JavaScript** – Game Logic and Interactivity
 
-
