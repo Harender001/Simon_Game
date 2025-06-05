@@ -20,4 +20,10 @@ A fun and engaging browser-based memory game built using **HTML**, **CSS**, and 
 - **CSS3** – Styling
 - **Vanilla JavaScript** – Game Logic and Interactivity
 
+## 📸 Screenshots
+  ### Start Screen
+  ![Image](https://github.com/Harender001/Simon_Game/blob/3a0503f4010e7d180a23e5c25644f7d3a6d06cf1/Screenshot%202025-06-05%20111631.png)
+
+  
+
 
